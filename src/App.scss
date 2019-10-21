@@ -1,0 +1,16 @@
+.main {
+  background: pink;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  .box {
+    background: skyblue;
+  }
+}
+
+body {
+  margin: 0;
+  background-color: #e1e1e1;
+  font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma,
+    "Hiragino Sans GB", STHeiti, sans-serif !important;
+}
